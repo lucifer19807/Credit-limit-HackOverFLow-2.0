@@ -15,7 +15,7 @@ This Machine Learning app calculates maximum Credit limit based on your performa
 
 ## Folder Structure
 - The main.py file contains the primary code to be executed.
-- The CreditCardLimit.ipynb conatins the code used earlier for data processing.
+- The CreditCardLimit.ipynb conatins the raw code for data processing.
 - Flagged folder contains the dataset(credit_score_predict.csv) used for training.
 
 ## Inputs Required to be filed by user
@@ -25,7 +25,7 @@ This Machine Learning app calculates maximum Credit limit based on your performa
 |----------------------------------|----------------------------------------------|
 | 1. Annual Income                 | 7.  Number of open Accounts                  |
 | 2. Current Loan Amount           | 8.  Years since Account opening              |
-| 3. Home owenership               | 9.  Tax liens                                |
+| 3. Home ownership               | 9.  Tax liens                                |
 | 4. Credit Score                  | 10. Years Since Current Job                  |
 | 5. Montlhy Debt                  | 11. Bankruptcies                             |
 | 6. Account Balance               |                                              |
